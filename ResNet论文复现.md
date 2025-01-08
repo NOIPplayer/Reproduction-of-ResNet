@@ -1,7 +1,5 @@
 # <center>《Deep Residual Learning for Image Recognition》论文复现</center>
 
-#### <center>范圣如 320220937791</center>
-
 ## 1.Introduction
 本次选取的论文为深度学习领域的经典论文《Deep Residual Learning for Image Recognition》，即何凯明等行业大牛提出大名鼎鼎的ResNet（残差网络）的论文。
 我没有选取较前沿的论文，而是选择了这篇已经发表了接近10年的经典之作，主要原因如下：<br><br>
